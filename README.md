@@ -4,4 +4,6 @@
 
 This repo is a companion to [egocarib/CavesOfQud-QudUX-v2 #32](https://github.com/egocarib/CavesOfQud-QudUX-v2/pull/32), which ports QudUX v2 to Caves of Qud 1.0.5. You'll find debugging, validation, UAT and human code reviews here. 
 
-Its purpose is to make the thought and implementation process transparent. For Humans and LLMs alike. The PR itself contains only code. This repo contains the reasoning behind every change.
+## Why this exists
+1. Sort-of evidence that this is not a "fix this, make no mistakes" vibe-coded attempt at reviving a repo that somebody worked hard on
+2. Transparency about the implementation process, in case future maintainers want to contribute **effectively** with an LLM
