@@ -1,0 +1,8 @@
+# Game logs (can contain local paths)
+uat/evidence/**/Player-*.log
+*.log
+
+# OS noise
+Thumbs.db
+.DS_Store
+desktop.ini
