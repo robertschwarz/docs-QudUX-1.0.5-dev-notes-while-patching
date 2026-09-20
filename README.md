@@ -1,4 +1,4 @@
-# QudUX v2 — 1.0.5 patch companion docs
+# QudUX v2: 1.0.5 patch companion docs
 
 **AI Disclosure:** As you can obviously tell, most of the content in this repo was created by AI. Most of the documentation too. UAT results are documented by me. I did NOT deslop the implementation docs, because the target audience is LLMs instead of humans.
 
